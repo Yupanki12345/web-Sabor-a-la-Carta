@@ -1,0 +1,184 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Tabla de Quesos",
+      "descripcion": "Selección premium de quesos importados",
+      "categoriaId": 1,
+      "precio": 45.00,
+      "imagen": "https://via.placeholder.com/300x200/DAA520/FFFFFF?text=Tabla+de+Quesos",
+      "disponible": true
+    },
+    {
+      "id": 2,
+      "nombre": "Tabla de Embutidos",
+      "descripcion": "Jamón ibérico, salami y más",
+      "categoriaId": 1,
+      "precio": 55.00,
+      "imagen": "https://via.placeholder.com/300x200/DAA520/FFFFFF?text=Embutidos",
+      "disponible": true
+    },
+    {
+      "id": 3,
+      "nombre": "Camarones a la Mantequilla",
+      "descripcion": "Camarones frescos salteados en salsa de mantequilla",
+      "categoriaId": 1,
+      "precio": 38.00,
+      "imagen": "https://via.placeholder.com/300x200/DAA520/FFFFFF?text=Camarones",
+      "disponible": true
+    },
+    {
+      "id": 4,
+      "nombre": "Ceviche Mixto",
+      "descripcion": "Pez espada, camarones y pulpo",
+      "categoriaId": 1,
+      "precio": 42.00,
+      "imagen": "https://via.placeholder.com/300x200/DAA520/FFFFFF?text=Ceviche",
+      "disponible": true
+    },
+    {
+      "id": 5,
+      "nombre": "Lomo a la Parrilla",
+      "descripcion": "Corte de lomo de res premium, cocido a la parrilla",
+      "categoriaId": 2,
+      "precio": 68.00,
+      "imagen": "https://via.placeholder.com/300x200/8B3A3A/FFFFFF?text=Lomo",
+      "disponible": true
+    },
+    {
+      "id": 6,
+      "nombre": "Pez Espada a la Mantequilla",
+      "descripcion": "Filete fresco de pez espada con salsa delicada",
+      "categoriaId": 2,
+      "precio": 58.00,
+      "imagen": "https://via.placeholder.com/300x200/8B3A3A/FFFFFF?text=Pez+Espada",
+      "disponible": true
+    },
+    {
+      "id": 7,
+      "nombre": "Pechuga Rellena",
+      "descripcion": "Pechuga de pollo rellena de jamón y queso",
+      "categoriaId": 2,
+      "precio": 48.00,
+      "imagen": "https://via.placeholder.com/300x200/8B3A3A/FFFFFF?text=Pechuga",
+      "disponible": true
+    },
+    {
+      "id": 8,
+      "nombre": "Arroz Chaufa",
+      "descripcion": "Arroz salteado con pollo, camarones y vegetales",
+      "categoriaId": 2,
+      "precio": 38.00,
+      "imagen": "https://via.placeholder.com/300x200/8B3A3A/FFFFFF?text=Arroz+Chaufa",
+      "disponible": true
+    },
+    {
+      "id": 9,
+      "nombre": "Broaster Completo",
+      "descripcion": "Pollo broaster con papas y ensalada",
+      "categoriaId": 3,
+      "precio": 32.00,
+      "imagen": "https://via.placeholder.com/300x200/D4AF37/FFFFFF?text=Broaster",
+      "disponible": true
+    },
+    {
+      "id": 10,
+      "nombre": "Broaster en Promo",
+      "descripcion": "1 libra de pollo broaster + papas",
+      "categoriaId": 3,
+      "precio": 28.00,
+      "imagen": "https://via.placeholder.com/300x200/D4AF37/FFFFFF?text=Broaster+Promo",
+      "disponible": true
+    },
+    {
+      "id": 11,
+      "nombre": "Tabla de Carnes",
+      "descripcion": "Costillas, lomo, pollo y champiñones a la parrilla",
+      "categoriaId": 4,
+      "precio": 85.00,
+      "imagen": "https://via.placeholder.com/300x200/CD5C5C/FFFFFF?text=Parrilla",
+      "disponible": true
+    },
+    {
+      "id": 12,
+      "nombre": "Parrillada Mixta",
+      "descripcion": "Para dos personas: carnes variadas y vegetales",
+      "categoriaId": 4,
+      "precio": 95.00,
+      "imagen": "https://via.placeholder.com/300x200/CD5C5C/FFFFFF?text=Parrillada",
+      "disponible": true
+    },
+    {
+      "id": 13,
+      "nombre": "Costillas a la BBQ",
+      "descripcion": "Costillas tiernas con salsa BBQ especial",
+      "categoriaId": 4,
+      "precio": 65.00,
+      "imagen": "https://via.placeholder.com/300x200/CD5C5C/FFFFFF?text=Costillas",
+      "disponible": true
+    },
+    {
+      "id": 14,
+      "nombre": "Agua Mineral",
+      "descripcion": "Botella de 500ml",
+      "categoriaId": 5,
+      "precio": 3.00,
+      "imagen": "https://via.placeholder.com/300x200/87CEEB/FFFFFF?text=Agua",
+      "disponible": true
+    },
+    {
+      "id": 15,
+      "nombre": "Gaseosa",
+      "descripcion": "Coca-Cola, Fanta o Sprite - 355ml",
+      "categoriaId": 5,
+      "precio": 5.00,
+      "imagen": "https://via.placeholder.com/300x200/87CEEB/FFFFFF?text=Gaseosa",
+      "disponible": true
+    },
+    {
+      "id": 16,
+      "nombre": "Jugo Natural",
+      "descripcion": "Naranja, papaya o piña - 350ml",
+      "categoriaId": 5,
+      "precio": 6.00,
+      "imagen": "https://via.placeholder.com/300x200/87CEEB/FFFFFF?text=Jugo",
+      "disponible": true
+    },
+    {
+      "id": 17,
+      "nombre": "Vino Tinto",
+      "descripcion": "Vino tinto premium - copa",
+      "categoriaId": 5,
+      "precio": 15.00,
+      "imagen": "https://via.placeholder.com/300x200/87CEEB/FFFFFF?text=Vino",
+      "disponible": true
+    },
+    {
+      "id": 18,
+      "nombre": "Tiramisú",
+      "descripcion": "Clásico italiano con café y mascarpone",
+      "categoriaId": 6,
+      "precio": 18.00,
+      "imagen": "https://via.placeholder.com/300x200/D2B48C/FFFFFF?text=Tiramisu",
+      "disponible": true
+    },
+    {
+      "id": 19,
+      "nombre": "Brownie de Chocolate",
+      "descripcion": "Brownie casero con helado de vainilla",
+      "categoriaId": 6,
+      "precio": 14.00,
+      "imagen": "https://via.placeholder.com/300x200/D2B48C/FFFFFF?text=Brownie",
+      "disponible": true
+    },
+    {
+      "id": 20,
+      "nombre": "Cheesecake",
+      "descripcion": "Cheesecake neoyorquino con frutos rojos",
+      "categoriaId": 6,
+      "precio": 16.00,
+      "imagen": "https://via.placeholder.com/300x200/D2B48C/FFFFFF?text=Cheesecake",
+      "disponible": true
+    }
+  ]
+}

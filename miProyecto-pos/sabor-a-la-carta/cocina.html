@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Panel de Cocina - Sabor a la Carta">
+    <title>Panel de Cocina - Sabor a la Carta</title>
+
+    <!-- Bootstrap 5 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Estilos principales -->
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="stylesheet" href="./css/header.css">
+    <link rel="stylesheet" href="./css/notifications.css">
+    <link rel="stylesheet" href="./css/responsive.css">
+
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            background-color: #f8f9fa;
+        }
+
+        main {
+            flex: 1;
+            background-color: var(--color-crema);
+        }
+
+        #filtros-estado {
+            margin-bottom: 2rem;
+        }
+
+        #filtros-estado .btn {
+            text-align: left;
+            padding: 1rem;
+            border: 2px solid var(--color-gris-claro);
+            border-radius: 8px;
+            transition: var(--transition);
+        }
+
+        #filtros-estado .btn:hover {
+            border-color: var(--color-mostaza);
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-media);
+        }
+
+        .contador-estado {
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: var(--color-mostaza);
+            margin-top: 0.5rem;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header se renderiza con JS -->
+    <!-- Main se renderiza con JS -->
+
+    <!-- Scripts -->
+    <script src="./js/utils.js"></script>
+    <script src="./js/pedidos.js"></script>
+    <script src="./js/cocina.js"></script>
+
+    <script>
+        // Habilitar debugging en desarrollo
+        window.DEBUG_MODE = true;
+    </script>
+</body>
+</html>

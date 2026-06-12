@@ -1,0 +1,34 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nombre": "Entradas",
+      "icono": "🥘"
+    },
+    {
+      "id": 2,
+      "nombre": "Platos a la Carta",
+      "icono": "🍽️"
+    },
+    {
+      "id": 3,
+      "nombre": "Broaster",
+      "icono": "🍗"
+    },
+    {
+      "id": 4,
+      "nombre": "Parrillas",
+      "icono": "🔥"
+    },
+    {
+      "id": 5,
+      "nombre": "Bebidas",
+      "icono": "🥤"
+    },
+    {
+      "id": 6,
+      "nombre": "Postres",
+      "icono": "🍰"
+    }
+  ]
+}
